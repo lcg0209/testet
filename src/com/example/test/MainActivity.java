@@ -14,6 +14,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		TextView tv = (TextView)findViewById(R.id.tv);
 		tv.setText("hello github!");
+		tv.setText("totototo");
 	}
 
 	@Override

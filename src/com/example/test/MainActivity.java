@@ -15,6 +15,7 @@ public class MainActivity extends Activity {
 		TextView tv = (TextView)findViewById(R.id.tv);
 		tv.setText("hello github!");
 		tv.setText("totototo");
+		tv.setText("afsdsdfsf");
 	}
 
 	@Override
